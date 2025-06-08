@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VKRepro.ModelRotation.VK": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
