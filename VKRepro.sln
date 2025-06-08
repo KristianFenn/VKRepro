@@ -14,6 +14,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "desktopvk", "..\MonoGame\na
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VKRepro.UnsetTexture", "VKRepro.UnsetTexture\VKRepro.UnsetTexture.csproj", "{0309BC1A-491C-9A33-A741-732E736BD357}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VKRepro.TextureNotBound", "VKRepro.TextureNotBound\VKRepro.TextureNotBound.csproj", "{9BF9E31D-3C68-C892-0EAB-44B045EE3707}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -46,6 +48,14 @@ Global
 		{0309BC1A-491C-9A33-A741-732E736BD357}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0309BC1A-491C-9A33-A741-732E736BD357}.Release|x64.ActiveCfg = Release|x64
 		{0309BC1A-491C-9A33-A741-732E736BD357}.Release|x64.Build.0 = Release|x64
+		{9BF9E31D-3C68-C892-0EAB-44B045EE3707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF9E31D-3C68-C892-0EAB-44B045EE3707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF9E31D-3C68-C892-0EAB-44B045EE3707}.Debug|x64.ActiveCfg = Debug|x64
+		{9BF9E31D-3C68-C892-0EAB-44B045EE3707}.Debug|x64.Build.0 = Debug|x64
+		{9BF9E31D-3C68-C892-0EAB-44B045EE3707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF9E31D-3C68-C892-0EAB-44B045EE3707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BF9E31D-3C68-C892-0EAB-44B045EE3707}.Release|x64.ActiveCfg = Release|x64
+		{9BF9E31D-3C68-C892-0EAB-44B045EE3707}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
